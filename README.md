@@ -13,7 +13,7 @@ To run the code, you need to download every listed package in [requirements.txt]
 - Clone this repository
 
 ```shell
-git clone https://github.com/oooolga/YC2-GPT2Model
+git clone https://github.com/oooolga/CodeName-Python
 ```
 
 ## How to play?
