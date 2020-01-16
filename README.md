@@ -13,6 +13,19 @@ To run the code, you need to download every listed package in [requirements.txt]
 - Clone this repository
 
 ```shell
+mkdir Games
+cd Games
+mkdir fonts
+```
+- Download fonts: 
+* go to https://fonts.google.com/specimen/Noto+Serif+SC
+* download NotoSerifSC-Bold.otf / NotoSerifSC-Regular.otf files
+* put them in the fonts folder
+* go to https://fonts.google.com/specimen/Ma+Shan+Zheng
+* download MaShanZheng-Regular.ttf
+* put it in the fonts folder
+- Go to the Games folder and enter following command
+```shell
 git clone https://github.com/oooolga/CodeName-Python
 ```
 
