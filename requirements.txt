@@ -6,7 +6,7 @@ get==2019.4.13
 idna==2.8
 kiwisolver==1.1.0
 matplotlib==3.1.2
-numpy==1.18.0
+numpy==1.22.0
 panda==0.3.1
 pandas==0.25.3
 post==2019.4.13
